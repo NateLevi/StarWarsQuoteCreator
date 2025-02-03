@@ -12,6 +12,7 @@ The main lesson learned was node. I learned how to use modules and packages, cre
 
 # Installation
 
+run npm install
 run node server.js
 
 Navigate to localhost:3000
